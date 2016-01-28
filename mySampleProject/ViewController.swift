@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("hello")
+        print("this is written only for branch 2")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
