@@ -16,6 +16,7 @@ let locationManager = CLLocationManager()
     override func viewDidLoad() {
         super.viewDidLoad()
         print("hello")
+        print ("hola")
         print("this is written only for branch 2")
         
         let locManager = CLLocationManager()
@@ -31,6 +32,7 @@ let locationManager = CLLocationManager()
         else{
             print("Location service disabled");
         }
+    
         // Do any additional setup after loading the view, typically from a nib.
     }
 
